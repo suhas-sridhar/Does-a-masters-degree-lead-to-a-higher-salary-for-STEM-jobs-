@@ -4,7 +4,6 @@ Jupyter notebook containts the data manipulation and EDA
 - Fill 'level','tag' and 'company' missing values with the mode
 - Fill 'gender' missing values with a random assingment of male/female
 ![image](https://user-images.githubusercontent.com/96037819/146714466-b519be69-d370-4b4c-8ec9-5f42aca01034.png)
-<br>
 Since our focus is on whether master's degree leads to a higher salary, we remove employee data containing people who have more than 25 years of experience.
 When someone has a lot of experience in a field, his/her qualifications will not impact the salary as much as the work they have done in the field.
 Initial boxplot shows us that those who have a master's degree have a higher median salary than those with a bachelor's degree.
